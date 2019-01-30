@@ -1,0 +1,12 @@
+References:
+
+a_1_EDA.ipynb:
+Table A-1
+CPS Historical Migration/Geographic Mobility Tables
+https://www.census.gov/topics/population/migration.html
+
+a_2_EDA.ipynb:
+Table A-2
+CPS Historical Migration/Geographic Mobility Tables
+https://www.census.gov/topics/population/migration.html
+
